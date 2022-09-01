@@ -1,5 +1,2 @@
 #!/bin/bash
-cp -nu *.html ..
-[4:03 am, 01/09/2022] Ruth Fadesola: 15.
-#!/bin/bash
-mv [[:upper:]]* /tmp/u
+cp -nu *.html .. [4:03 am, 01/09/2022] Ruth Fadesola: 15. #!/bin/bash mv [[:upper:]]* /tmp/u 
